@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuan-Allen&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m Hangyu Yuan
-- 🌱 I’m currently learning CSE, Compiler and Machine Learning
+- 🌱 I’m currently learning OS, Network and Kubernetes
 - 🏫 I'm currently studying in SJTU SE.
 - 📫 How to reach me :1286362584@qq.com
 
