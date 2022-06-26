@@ -3,9 +3,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuan-Allen&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m Hangyu Yuan
-- 🌱 I’m currently learning OS, Network and Kubernetes
+- 🌱 I’m currently learning OS and Rust.
 - 🏫 I'm currently studying in SJTU SE.
-- 📫 How to reach me :1286362584@qq.com
+- 📫 How to reach me :hangyu.yuan@qq.com
 
 <!---
 Yuan-Allen/Yuan-Allen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
