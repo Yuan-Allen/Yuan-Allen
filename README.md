@@ -2,9 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allenyuan&label=Profile%20views&color=0e75b6&style=flat" alt="allenyuan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allenyuan" alt="allenyuan" /></a> </p>
-
-
 - 👋 Hi, I’m Hangyu Yuan
 - 🌱 I’m currently learning OS, distributed systems and Rust.
 - 🏫 I'm currently studying in SJTU SE.
