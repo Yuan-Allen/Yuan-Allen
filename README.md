@@ -1,4 +1,5 @@
-<h1 align="center">𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> </h1>
+# 𝗛𝗲𝗹𝗹𝗼！
+<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allenyuan&label=Profile%20views&color=0e75b6&style=flat" alt="allenyuan" /> </p>
 
