@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allenyuan&label=Profile%20views&color=0e75b6&style=flat" alt="allenyuan" /> </p>
 
 - 👋 Hi, I’m Hangyu Yuan
-- 🌱 I’m currently learning OS, distributed systems, Rust, and LLM acceleration.
+- 🌱 I’m currently learning OS, distributed systems, Rust, and system for AI.
 - 🏫 I'm currently studying in SJTU SE.
 - 📫 How to reach me: **hangyu.yuan@qq.com**
 - 📝 My blog: **https://alleny.xyz/**
